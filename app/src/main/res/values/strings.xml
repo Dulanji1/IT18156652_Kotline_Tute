@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstKotlinAppMadTute</string>
+    <string name="lab1">Enter your Year of Birth:</string>
+    <string name="hint1">Year of Birth</string>
+    <string name="button">Submit</string>
+    <string name="te2">"Age : "</string>
+    <string name="te3">Year of Birth</string>
+</resources>
